@@ -1,6 +1,6 @@
 <h1 align="left">Beksultan K 👋</h1>
 
-- 💻 Core Stack: **Javascript, **Typescript. Mainly focused on Frontend.
+- 💻 Core Stack: **Javascript, Typescript**. Mainly focused on Frontend.
 - 🔥 Interested in Product Management & UI/UX Design.
 - 👨‍💻 Linkedin: **@beksultan**
 
